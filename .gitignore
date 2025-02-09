@@ -1,2 +1,8 @@
+node_modules/
+dist/
+.env
+.DS_Store
+*.log
 .prettierrc
-.md
+practice.md
+
